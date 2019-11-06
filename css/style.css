@@ -50,8 +50,6 @@ code {
     color: #BADBFF;
 }
 
-.nav-link:visited {}
-
 nav.flex-item {
     flex: 1 0 15%;
     margin: 0 2.5rem 0 0.5rem;
